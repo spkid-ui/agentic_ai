@@ -27,11 +27,6 @@ python day1/agent.py
 python day2/agent.py
 python day4/agent.py
 
-# Day 3 – optionally install Anthropic SDK
-pip install anthropic
-export ANTHROPIC_API_KEY=sk-ant-...
-python day3/agent.py
-```
 
 ## Academic Integrity
 All code was written individually as per lab guidelines.
